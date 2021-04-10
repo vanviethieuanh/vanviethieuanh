@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌼 Check out my portfolio at [vanviethieuanh.com](https://vanviethieuanh.com/)<br/>
+🎨 See my design stuff on [Behance](https://www.behance.net/vanviethieuanh)<br/>
+🤙 Contact me through [Facebook](https://www.facebook.com/vanviethieuanh/)
+
 <!--
 **vanviethieuanh/vanviethieuanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
