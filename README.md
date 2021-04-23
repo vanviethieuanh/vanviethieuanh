@@ -27,10 +27,6 @@ Machine Learning and Computer Vision
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=OpenCV&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&labelColor=black&logo=Keras&logoColor=white)
 
-#### 👀 Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vanviethieuanh.vanviethieuanh)
-
 <details>
 <summary>
   More about me
