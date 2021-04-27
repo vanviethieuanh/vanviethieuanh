@@ -12,8 +12,7 @@
 Full Stack development
 
 ![vue.js Badge](https://img.shields.io/badge/-vue.js-3fb27f?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=3fb27f)
-![svelte Badge](https://img.shields.io/badge/-svelte-FF3E00?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)
-![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)<br/>
+![svelte Badge](https://img.shields.io/badge/-svelte-FF3E00?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)<br/>
 ![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=Django&logoColor=white)
 ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)<br/>
 ![My SQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=white)
