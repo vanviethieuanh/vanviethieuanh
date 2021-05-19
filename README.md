@@ -7,6 +7,11 @@
 [![Facebook Badge](https://img.shields.io/badge/-vanviethieuanh-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://facebook.com/vanviethieuanh)
 [![Instagram Badge](https://img.shields.io/badge/-vanviethieuanh-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/vanviethieuanh)
 
+#### 🌻 Tiny flowers
+
+- [Tic tac toe](https://vanviethieuanh.com/tictactoe/)
+- [k-means clustering](http://vanviethieuanh.com/k-means-clustering/)
+
 #### 🧪 Technologies
 
 Full Stack development
