@@ -2,10 +2,14 @@
 
 > 🌼 My portfolio: [vanviethieuanh.com](https://vanviethieuanh.com/)
 
+[![Itch Badge](https://img.shields.io/badge/-accodius-FA5C5C?style=flat&labelColor=FA5C5C&logo=itch.io&logoColor=white)](https://accodius.itch.io/)
 [![Behance Badge](https://img.shields.io/badge/-vanviethieuanh-1769FF?style=flat&labelColor=1769FF&logo=behance&logoColor=white)](https://www.behance.net/vanviethieuanh)
-[![Mail Badge](https://img.shields.io/badge/-vanviethieuanh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vanviethieuanh@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-vanviethieuanh-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://facebook.com/vanviethieuanh)
-[![Instagram Badge](https://img.shields.io/badge/-vanviethieuanh-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/vanviethieuanh)
+
+
+[![Instagram Badge](https://img.shields.io/badge/-@accodius-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://instagram.com/accodius)
+[![Twitter Badge](https://img.shields.io/badge/-@AccodiusdeVan-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/AccodiusdeVan)
+[![Reddit Badge](https://img.shields.io/badge/-@Accodius_de_Van-FF4500?style=flat&labelColor=FF4500&logo=reddit&logoColor=white)](https://www.reddit.com/user/Accodius_de_Van)
+
 
 #### 🌻 Tiny flowers
 
