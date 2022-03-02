@@ -16,6 +16,10 @@
 - [Tic tac toe](https://vanviethieuanh.com/tictactoe/)
 - [k-means clustering](http://vanviethieuanh.com/k-means-clustering/)
 
+# Tech stuffs
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vanviethieuanh&hide=prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanviethieuanh&layout=compact&theme=gruvbox&langs_count=6&hide=jupyter%20notebook,html,css,tex)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 🧪 Technologies
 
 Full Stack development
