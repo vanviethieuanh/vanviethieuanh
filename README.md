@@ -15,6 +15,8 @@
 
 - [Tic tac toe](https://vanviethieuanh.com/tictactoe/)
 - [k-means clustering](http://vanviethieuanh.com/k-means-clustering/)
+- [Scheduling algorithms](https://vanviethieuanh.com/scheduling-algorithms/)
+- []
 
 # Tech stuffs
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vanviethieuanh&hide=prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
