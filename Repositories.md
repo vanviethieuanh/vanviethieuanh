@@ -14,3 +14,4 @@
 | cfg    | Configurations                  |
 | gd     | Game: Godot                     |
 | un     | Game: Unity                     |
+| aut    | Automation                      |
